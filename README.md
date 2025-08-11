@@ -1,16 +1,15 @@
-## Hi there 👋
+### Oi 👋
 
-<!--
-**wbetru/wbetru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre o William
 
-Here are some ideas to get you started:
+Meu nome é William Fernandes, sou formado em Administração e, após anos atuando com atendimento e vendas no varejo de tecnologia, iniciei um novo capítulo na minha carreira: a transição para a área de análise de dados.
+Ao longo da minha trajetória, desenvolvi habilidades fundamentais como comunicação clara, resolução de problemas, foco no cliente e organização de processos, que hoje reconheço como grandes aliadas no mundo dos dados. Sempre gostei de trabalhar com metas, interpretar indicadores e entender como a informação pode melhorar a performance de uma equipe ou de um negócio.
+Por isso, me especializei em análise de dados pela EBAC, onde venho desenvolvendo projetos com ferramentas como Python, SQL, Power BI, Excel e Google Looker Studio, aplicando técnicas de análise exploratória, construção de dashboards, limpeza de dados e geração de insights. Meu objetivo é transformar dados em decisões inteligentes que contribuam para a estratégia da empresa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbetru&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wbetru&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
