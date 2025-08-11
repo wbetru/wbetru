@@ -12,4 +12,4 @@ Por isso, me especializei em análise de dados pela EBAC, onde venho desenvolven
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wbetru&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wbetru&repo=Projetosemantix.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
